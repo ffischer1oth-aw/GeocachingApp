@@ -38,7 +38,7 @@ Follow these steps to build the APK using Android Studio:
 3. Select "Open an existing Android Studio project".
 4. Browse to the repository's location on your machine and select it.
 5. Android Studio will then load and sync the project.
-6. Add you Mapbox Public Key in the `\...\GeocachingApp\app\src\main\java\com\example\geocachingapp\MainActivity.java`
+6. Add you Mapbox Public Key in the `\...\GeocachingApp\app\src\main\java\com\example\geocachingapp\MainActivity.java` and in `\...\GeocachingApp\app\src\main\res\values\strings.xml`
 7. Add you Mapbox Private Key in the `\...\GeocachingApp\gradle.properties` 
 8. Click on the 'Build' option in the top menu.
 9. Navigate to 'Build Bundle(s) / APK(s)' and then select 'Build APK'.
