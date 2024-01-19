@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">GeocachingApp</string>
-    <string name="mapbox_access_token">pk.eyJ1IjoiZi1maXNjaGVyMSIsImEiOiJjbDQ2dWxxOTMwODkyM2RteDA5ODloNmNxIn0.T2JRPRcXrywAhThLXK1MUw</string>
+    <string name="mapbox_access_token">YOUR_PUBLIC_KEY</string>
 </resources>
